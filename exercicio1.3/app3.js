@@ -14,4 +14,5 @@ function div(a, b) {
 console.log(sum(mult(5, 10), 5));
 
 const sumNumbers = (a, b) => a + b;
+
 console.log(sumNumbers(22, 4));
